@@ -20,5 +20,4 @@ else
     echo "Repositório 'Balanca_projeto' já existe. Pulando o clone."
 fi
 
-chmod +x Balanca_projeto/balanca.sh
-python3 Balanca_projeto/Balanca_final.py
+python3 Balanca_final.py

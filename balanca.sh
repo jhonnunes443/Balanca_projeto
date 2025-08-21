@@ -21,4 +21,4 @@ else
 fi
 
 chmod +x Balanca_projeto/balanca.sh
-./Balanca_projeto/balanca.sh
+./Balanca_projeto/Balanca_final.py
